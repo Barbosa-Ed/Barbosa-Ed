@@ -4,8 +4,8 @@
 <a href="site"><img src="icone criado"></a>
 -->
 <div>
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Barbosa-Ed&hide=stars&show_icons=true&theme=tokyonight"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosa-Ed&hide_progress=false&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Barbosa-Ed&hide=stars&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosa-Ed&hide_progress=false&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
