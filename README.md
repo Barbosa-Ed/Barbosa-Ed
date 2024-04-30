@@ -1,5 +1,8 @@
 # Olá! Me chamo Ednaldo Barbosa 👋
-
+<!--
+<h2>Veja meus projetos!</h2>
+<a href="site"><img src="icone criado"></a>
+-->
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbosa-Ed&hide=stars&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosa-Ed&hide_progress=false&theme=tokyonight"/>
@@ -11,7 +14,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-
 </div>
 <div>
   <h2>Vamos nos conectar!</h2>
